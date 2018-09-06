@@ -10,3 +10,4 @@ def print_data():
 
 take_in_data()
 process_data()
+print_data()
